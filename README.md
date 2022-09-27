@@ -6,7 +6,7 @@
         
         
 
-This white paper provides detail explaination of Brute forcing following services using hydra and metasploit framework. 
+This white paper provides detail explanation of Brute forcing following services using hydra and metasploit framework. 
 * SSH
 * TELNET
 * VNC
